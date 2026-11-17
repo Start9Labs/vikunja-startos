@@ -5,7 +5,7 @@ export const manifest = setupManifest({
   id: 'vikunja',
   title: 'Vikunja',
   license: 'AGPL-3.0',
-  packageRepo: 'https://github.com/Start9-Community/vikunja-startos',
+  packageRepo: 'https://github.com/Start9Labs/vikunja-startos',
   upstreamRepo: 'https://github.com/go-vikunja/vikunja',
   marketingUrl: 'https://vikunja.io/',
   donationUrl: 'https://opencollective.com/vikunja',
